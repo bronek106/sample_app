@@ -1,0 +1,2 @@
+class EmpDataController < ApplicationController
+end

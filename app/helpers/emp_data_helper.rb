@@ -1,0 +1,2 @@
+module EmpDataHelper
+end
